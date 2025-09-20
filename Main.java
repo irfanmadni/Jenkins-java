@@ -6,5 +6,8 @@ public class Main{
       System.out.println("This is java jankins test");
       System.out.println(new Date());
       System.out.println("Adding one more file");
+
+      Student s = new Student();
+      s.sayHi();
    }
 }
